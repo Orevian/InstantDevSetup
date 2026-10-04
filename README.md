@@ -106,7 +106,7 @@ Git (To clone the repository / Projeyi yerel bilgisayarınıza çekmek için)
 
 1. Clone the Repository / Projeyi Klonlayın
 Bash
-git clone [https://github.com/HexanovaCore/InstantDevSetup.git](https://github.com/HexanovaCore/InstantDevSetup.git)
+git clone [https://github.com/Orevian/InstantDevSetup.git](https://github.com/Orevian/InstantDevSetup.git)
 cd InstantDevSetup
 3. Install Package in Editable Mode / Paket Bağlantılarını Kaydedin
 PowerShell
